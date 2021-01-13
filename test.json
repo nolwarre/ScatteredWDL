@@ -1,0 +1,4 @@
+{
+  "test.inputs": ["/Users/nolwarre/Test/test1.txt","/Users/nolwarre/Test/test2.txt" ],
+  "test.memory": 1
+}
